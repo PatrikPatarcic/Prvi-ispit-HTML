@@ -1,0 +1,28 @@
+* {
+    font-family: Courier New;
+    background-color: slategray;
+}
+
+ul {
+    padding: 14px;
+    background-color:rgb(194, 0, 251);
+}
+
+ul li{
+    display: inline; 
+}
+
+ul li a{
+    color: whitesmoke;
+    background-color: rgb(194, 0, 251);
+    text-decoration: none;
+    padding: 14px;
+}
+
+li a:hover{    
+    background-color: rgb(255, 85, 84);
+}
+
+li a:active{    
+    background-color: red;
+}

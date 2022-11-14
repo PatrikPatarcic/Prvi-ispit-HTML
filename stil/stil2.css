@@ -1,0 +1,11 @@
+* {
+    font-family: Courier New;
+}
+
+div {
+    background-color: rgb(58, 166, 255);
+    letter-spacing: 5px;
+    line-height: 1.6;
+    color: whitesmoke;
+    text-align: center;
+}
